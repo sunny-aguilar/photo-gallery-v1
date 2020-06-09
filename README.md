@@ -1,1 +1,2 @@
-# photo-gallery-v1
+# Responsive Image Gallery
+A simple responsive image gallery using Bootstrap.
